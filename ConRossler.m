@@ -1,4 +1,4 @@
-%% AEADV metric 
+% AEADV metric 
 % This algorithm is devoted for detecting chaotic parametric zones 
 % on nonuniformly dissipative and conservative systems
 %
