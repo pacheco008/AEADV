@@ -80,12 +80,13 @@ First steps
 
 
 ***************************************************
-Additional examples given in the paper: 
-Diego S. de la Vega, Olga G. Felix-Beltran, Jesus M. Munoz-Pacheco, "Identifying chaotic dynamics in nonuniformly dissipative and conservative dynamical systems from the average of the varying divergence", Preprint February 2025.
-
+For the Additional examples given in the paper: 
 
 1. Please check the file sistemasDiv.m, which contains the other three examples of the paper.
 2. Follow the same steps mentioned before.
+
+
+Diego S. de la Vega, Olga G. Felix-Beltran, Jesus M. Munoz-Pacheco, "Identifying chaotic dynamics in nonuniformly dissipative and conservative dynamical systems from the average of the varying divergence", Preprint February 2025.
 
 
 
