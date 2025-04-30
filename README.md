@@ -6,8 +6,9 @@
 
 
 
-***************************************************
+
 Description
+---------------
 
 This algorithm is devoted to detecting chaotic parametric zones 
 on nonuniformly dissipative and conservative dynamical systems
@@ -19,18 +20,15 @@ The main purposes of this code are:
 
 
 
-*************************************************** 
+
 Authors:
+---------------
      Diego Ruiz Sanchez de la Vega (Developer and Coder)
      Jesus M. Munoz-Pacheco (Conceptualization and Validation)
 
 
-CITED AS:
-Diego S. de la Vega, Olga G. Felix-Beltran, Jesus M. Munoz-Pacheco, "Identifying chaotic dynamics in nonuniformly dissipative and conservative dynamical systems from the average of the varying divergence", Preprint February 2025.
-
-
-***************************************************
 Files
+---------------
 
 1. AEADV.m
 This file contains the main procedure of the proposed chaos metric. It can accept a dynamical system of any dimension.
@@ -69,8 +67,9 @@ This file presents an example of the proposed chaos metric. It contains:
 		
 	  
 
-***************************************************
+
 First steps
+---------------
 
 
 1. Download the files AEADV.m and ConRossler.m and save them in the same directory.
@@ -79,8 +78,9 @@ First steps
 4. You will see two plots showing the results for the Rossler system and its chaotic parametric zones.
 
 
-***************************************************
-For the Additional examples given in the paper: 
+
+For the Additional examples given in the paper:
+---------------
 
 1. Please check the file sistemasDiv.m, which contains the other three examples of the paper.
 2. Follow the same steps mentioned before.
@@ -90,8 +90,10 @@ Diego S. de la Vega, Olga G. Felix-Beltran, Jesus M. Munoz-Pacheco, "Identifying
 
 
 
-***************************************************
+
 Other systems
+---------------
+
 
 1. If you want to test the AEADV metric with other systems you should change the 
 function *divrossler* included in the ConRossler.m file.
@@ -107,13 +109,8 @@ and the expanded dynamical system.
 
 
 
-CITED AS:
-Diego S. de la Vega, Olga G. Felix-Beltran, Jesus M. Munoz-Pacheco, "Identifying chaotic dynamics in nonuniformly dissipative and conservative dynamical systems from the average of the varying divergence", Preprint February 2025.
-
-
-***************************************************
 Bugs, Comments, and Collaborations send email to:
-
+---------------
 
 jesusm.pacheco@correo.buap.mx
 
@@ -121,4 +118,11 @@ jesusm.pacheco@correo.buap.mx
 
 
 CITED AS:
-Diego S. de la Vega, Olga G. Felix-Beltran, Jesus M. Munoz-Pacheco, "Identifying chaotic dynamics in nonuniformly dissipative and conservative dynamical systems from the average of the varying divergence", Preprint February 2025.
+---------------
+Diego S. de la Vega, Olga G. Félix-Beltrán, Jesus M. Munoz-Pacheco,
+Identifying chaotic dynamics in nonuniformly dissipative and conservative dynamical systems from the varying divergence,
+Results in Physics,
+2025,
+108259,
+https://doi.org/10.1016/j.rinp.2025.108259.
+
